@@ -10,4 +10,5 @@ int main() {
     int res=solu.searchInsert(nums,11);
     cout<<res<<endl;
     return 0;
+    //zzzzzzzzzzzzzzzzzzz
 }
